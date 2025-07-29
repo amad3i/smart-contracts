@@ -1,0 +1,28 @@
+{
+  "name": "void-erc20-erc721",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmadeusVoid/Void-ERC20-ERC721.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmadeusVoid/Void-ERC20-ERC721/issues"
+  },
+  "homepage": "https://github.com/AmadeusVoid/Void-ERC20-ERC721#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.10.1"
+  }
+}
