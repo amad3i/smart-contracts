@@ -13,4 +13,5 @@ npx hardhat run scripts/deploy.ts
 ```
 
 VoidToken deployed to: 0xaAA2f15fed825A74b4e62b8685AB301E6c364A5f
+
 VoidNFT deployed to: 0xaAA2f15fed825A74b4e62b8685AB301E6c364A5f
