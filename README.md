@@ -1,4 +1,4 @@
-# 🚀 Smart Contracts (Legacy 2022)
+# 🚀 Smart Contracts (Legacy 2022).
 
 > A set of smart contracts reflecting my practical experience in Solidity development and blockchain interaction. These are working solutions, tested and proven through real deployments. ⚡️🔥
 
